@@ -14,6 +14,7 @@ Surgi-Sync is a comprehensive AI-driven hospital assistant designed to streamlin
 * **Multilingual support:** Responses and outputs can be generated in multiple languages supported by Boson AI.
 * **Database-driven:** All patient, surgery, and doctor interactions are stored for reliable retrieval and reporting.
 
+
 ---
 
 ## Modules
